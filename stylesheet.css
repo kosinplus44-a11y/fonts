@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'PS Pimpdeed';
+    src: url('PSPimpdeed.woff2') format('woff2'),
+        url('PSPimpdeed.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
